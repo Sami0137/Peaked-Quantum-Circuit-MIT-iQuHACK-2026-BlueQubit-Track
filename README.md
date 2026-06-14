@@ -28,3 +28,8 @@ This project is built using Python and industry-standard quantum computing libra
 
 ## 💡 Design Choice: Why Statevector Simulation?
 I intentionally chose to use the `statevector_simulator` for this challenge because it avoids the statistical noise inherent in shot-based execution (such as running a circuit 1024 times and counting the results). By using exact quantum state simulation rather than relying on hardware sampling approximations, I can mathematically pinpoint the exact peak probability.
+
+
+
+## A great Source to learn more about this
+(https://app.bluequbit.io/tutorial/variational-quantum-classifier)
