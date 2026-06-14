@@ -32,4 +32,4 @@ I intentionally chose to use the `statevector_simulator` for this challenge beca
 
 
 ## A great Source to learn more about this
-(https://app.bluequbit.io/tutorial/variational-quantum-classifier)
+https://app.bluequbit.io/tutorial/variational-quantum-classifier
