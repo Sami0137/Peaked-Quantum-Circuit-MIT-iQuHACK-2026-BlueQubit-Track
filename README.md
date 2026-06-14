@@ -11,9 +11,8 @@ In this challenge, I am working with special quantum circuits—known as **Peake
 
 ## 📂 Repository Structure
 
-* **`circuits/`** - Contains the `.qasm` files I received for the challenge.
-* **`src/`** - My source code and scripts used to analyze the circuits and extract the bitstrings.
-* **`results/`** - The identified bitstrings, output logs, and any performance metrics.
+* **`Circuits/`** - Contains the `.qasm` files I received for the challenge.
+* **`Source Code/`** - My source code and scripts used to analyze the circuits and extract the bitstrings.
 
 ## 🛠️ Tech Stack & Dependencies
 
