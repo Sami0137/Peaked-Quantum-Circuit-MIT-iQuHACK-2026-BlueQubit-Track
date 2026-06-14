@@ -3,7 +3,7 @@ from qiskit_aer import Aer
 import numpy as np
 
 # Loading the circuit
-qc = QuantumCircuit.from_qasm_file("C:\\Users\\samiu\\Desktop\\My Important Folders\\Hackathon with Friends\\MIT iQuHACK\\00 Prob 1\\P1_little_peak.qasm")
+qc = QuantumCircuit.from_qasm_file("")  # Add the .qasm file path for Problem 1.
 print("Circuit loaded with", qc.num_qubits, "qubits")
 
 # Running full statevector simulation
